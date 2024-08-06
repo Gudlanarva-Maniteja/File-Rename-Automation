@@ -1,6 +1,6 @@
 import os
 
-folder_path = "C:/Users/krish/Pictures/Screenshots"
+folder_path = "C:\Users\dell\OneDrive\Pictures"
 
 for index, filename in enumerate(os.listdir(folder_path)):
 
